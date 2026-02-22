@@ -1,0 +1,12 @@
+{
+  "name": "CASTELNOVO BROS",
+  "short_name": "CASTELNOVO BROS",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
